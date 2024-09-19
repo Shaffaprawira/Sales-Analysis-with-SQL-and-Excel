@@ -47,13 +47,13 @@ The sales performance analysis for the BikeStore company reveals key trends acro
 
 ## Recommendations
 
-1. **Expand Marketing in Underperforming States**: States like Texas and California, while still profitable, have room for growth. Expanding targeted marketing campaigns in these regions could drive higher revenue.
+- **Expand Marketing in Underperforming States**: States like Texas and California, while still profitable, have room for growth. Expanding targeted marketing campaigns in these regions could drive higher revenue.
 
-2. **Diversify Product Offerings in Low-Performing Categories**: Categories like Children Bicycles and Comfort Bicycles generated the least revenue. Consider expanding product lines or promoting these categories to boost sales.
+- **Diversify Product Offerings in Low-Performing Categories**: Categories like Children Bicycles and Comfort Bicycles generated the least revenue. Consider expanding product lines or promoting these categories to boost sales.
 
-3. **Store-Level Optimization**: While Baldwin Bikes is performing well, stores like Santa Cruz Bikes and Rowlett Bikes need more attention. Revamping the product assortment or introducing localized promotions could improve their sales.
+- **Store-Level Optimization**: While Baldwin Bikes is performing well, stores like Santa Cruz Bikes and Rowlett Bikes need more attention. Revamping the product assortment or introducing localized promotions could improve their sales.
 
-4. **Customer Retention Programs**: High-value customers like Pamela Newman and Abby Gamble should be the focus of loyalty programs or personalized offers to ensure continued business and increase lifetime customer value.
+- **Customer Retention Programs**: High-value customers like Pamela Newman and Abby Gamble should be the focus of loyalty programs or personalized offers to ensure continued business and increase lifetime customer value.
 
 ## Assumptions and Caveats
 
