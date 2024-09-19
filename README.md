@@ -1,6 +1,4 @@
-# Sales-Analysis-with-SQL-and-Excel
-
-# Sales Performance Project
+# Sales Analysis with SQL and Excel
 
 ## Project Background
 
@@ -12,7 +10,7 @@ The project simulates a real-world business scenario where a data analyst works 
 
 - **Dataset**: The dataset used is the [BikeStores Sample Database](https://www.sqlservertutorial.net/getting-started/sql-server-sample-database/), which includes two schemas: `sales` and `production`. These schemas contain nine interrelated tables that represent business operations, including customer orders, staff, product inventory, and store data.
 
-  **Schemas:**
+- **Schemas**:
 
   - **Sales Schema**: Contains information about customer orders, staff, stores, and order details.
   - **Production Schema**: Includes information about products, categories, brands, and stock levels.
