@@ -61,3 +61,10 @@ The sales performance analysis for the BikeStore company reveals key trends acro
 - **Seasonality**: The analysis assumes no significant seasonal effects. However, real-world sales might exhibit seasonal spikes, especially for products like bikes.
 - **Exclusion of Costs**: This analysis focuses solely on revenue without factoring in the costs associated with production, shipping, or marketing. Future work could include profitability analysis for a more complete business assessment.
 - **Sampling Bias**: This is a sample dataset, and while it simulates a real-world scenario, actual business dynamics could introduce additional complexities.
+
+## 22/10/2024 Update
+
+Added an interactive Tableau version of the Sales Performance Dashboard.
+
+![Sales Performance Dashboard](tableau_dashboard.png)
+
